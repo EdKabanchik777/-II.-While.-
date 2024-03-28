@@ -99,7 +99,7 @@ my_favorite_pets_and_bird = ['cat', 'wolf', 'ostrich']
 if 'lion' in my_favorite_pets_and_bird:
     print('Wow!')
 
-MyFavoritePetsAndBirds = ['cat', 'wolf', 'ostrich']
+myFavoritePetsAndBirds = ['cat', 'wolf', 'ostrich']
 # но такой стиль используется для названий классов
 
 
